@@ -29,7 +29,7 @@ Steps for Execution:-
     
     Options: 1. Begin Web Test with Chrome Browser.
              
-             2. Begin Web Test with HeadlessChrome.
+             2. Begin Web Test with Chrome Browser.
 
 5.	Make a selection and click OK to begin execution.
 
