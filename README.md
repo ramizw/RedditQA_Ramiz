@@ -4,11 +4,13 @@ Objective: Write an automated functional UI test suite to test reddit.com
 
 Framework Used: Robot Framework
 
-Language: Python
+Language: Python 3.8
 
 Design Pattern: Page Object Model
 
 Browser: Chrome. Version 90.0.4430.85 (Official Build) (64-bit)
+
+Pre-requisite: Make sure Python is installed and configured in environment variables.
 
 Steps for Execution:-
 1.	Clone repository from git on Local Drive
