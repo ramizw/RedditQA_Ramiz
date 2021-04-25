@@ -13,7 +13,7 @@ Browser: Chrome. Version 90.0.4430.85 (Official Build) (64-bit)
 Steps for Execution:-
 1.	Clone repository from git on Local Drive
 
-    •	Command: git clone <repository path>
+    •	Command: git clone https://github.com/ramizw/RedditQA_Ramiz.git
     
 2.	Run pip install -r requirements.txt to install dependencies on the local machine. It should be run in the same location where repository is cloned.
 
@@ -27,7 +27,8 @@ Steps for Execution:-
 
 4.	User will be prompted to make a browser selection
     
-    Options: 1. Begin Web Test with Chrome Browser.
+    Options: 
+             1. Begin Web Test with Chrome Browser.
              
              2. Begin Web Test with Chrome Browser.
 
@@ -37,8 +38,8 @@ Steps for Execution:-
 
 Note: You can also refer test execution videos.
 
-•	DemoVideo-Chrome
+    •	DemoVideo-Chrome
 
-•	DemoVideo-HeadlessChrome
+    •	DemoVideo-HeadlessChrome
 
 
