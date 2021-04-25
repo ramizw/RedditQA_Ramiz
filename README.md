@@ -1,9 +1,13 @@
 # RedditQA_Ramiz
 
 Objective: Write an automated functional UI test suite to test reddit.com
+
 Framework Used: Robot Framework
+
 Language: Python
+
 Design Pattern: Page Object Model
+
 Browser: Chrome. Version 90.0.4430.85 (Official Build) (64-bit)
 
 Steps for Execution:-
